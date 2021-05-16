@@ -9,6 +9,7 @@
     "cookie-parser": "~1.4.3",
     "damage-calc": "git+https://github.com/progedu/damage-calc-4006.git",
     "debug": "~2.6.9",
+    "dotenv": "^9.0.2",
     "express": "~4.16.0",
     "express-session": "^1.15.6",
     "helmet": "^3.8.2",
